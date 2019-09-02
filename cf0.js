@@ -1,4 +1,4 @@
-'use strict';
+'use strict'; //Rikke
 
 let tails = 0;
 let heads = 0;
